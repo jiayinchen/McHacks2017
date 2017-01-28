@@ -1,0 +1,2 @@
+//shedfunction
+var snake;
